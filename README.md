@@ -1,6 +1,6 @@
-# Orders-Report-Looker-Studio
+# Orders Report Dashboard – Google Data Studio
 
-An interactive Google Looker Studio dashboard for analyzing order performance, customer segments, sales trends, product categories, and geographical insights.
+An interactive **E-commerce Orders Report Dashboard** developed using Google Data Studio to analyze order performance, customer segments, sales trends, product categories, and geographical insights.
 
 ## 🔗 Live Dashboard
 
@@ -12,13 +12,13 @@ An interactive Google Looker Studio dashboard for analyzing order performance, c
 
 ## Project Overview
 
-This project focuses on analyzing an e-commerce Superstore dataset and transforming raw business data into an interactive dashboard using Google Looker Studio.
+This project focuses on analyzing an e-commerce Superstore dataset and transforming raw business data into an interactive dashboard using Google Data Studio.
 
 The dashboard provides insights into order distribution, customer segments, product categories, regional performance, city-wise orders, and order trends over time.
 
 ## Tools & Technologies
 
-- Google Looker Studio (Data Studio)
+- Google Data Studio
 - Microsoft Excel
 - Data Visualization
 - Business Intelligence
@@ -27,38 +27,49 @@ The dashboard provides insights into order distribution, customer segments, prod
 ## Dashboard Features
 
 ### 1. Key Performance Indicators (KPIs)
-Displays key metrics such as:
+
+Displays important business metrics, including:
 - Number of Orders
 - Customer-related Order Count
 - Number of States
 - Number of Product Categories
 
 ### 2. Regional Analysis
+
 Visualizes order distribution across different geographical regions.
 
 ### 3. Category Analysis
-Analyzes orders across:
+
+Analyzes orders across three major product categories:
 - Technology
 - Office Supplies
 - Furniture
 
 ### 4. Customer Segment Analysis
-Compares:
+
+Compares order distribution across:
 - Consumer
 - Corporate
 - Home Office
 
 ### 5. City-wise Order Analysis
+
 Highlights cities with the highest order counts.
 
 ### 6. Year-wise Order Trends
-Visualizes order activity across different years.
+
+Visualizes changes in order activity across different years.
 
 ### 7. Month-wise Order Trends
-Analyzes monthly order patterns.
+
+Analyzes monthly order patterns to identify changes in order volume.
 
 ### 8. Detailed Data Tables
-Displays order details, regional information, state-wise quantities, and customer information.
+
+Provides detailed views of:
+- Order ID, Order Date, and Quantity
+- Region, State, and Quantity
+- Customer ID and Quantity
 
 ## Interactive Features
 
@@ -69,11 +80,11 @@ The dashboard includes interactive filters for:
 - Product Category
 - Shipping Mode
 
-These filters allow users to explore the data across different business dimensions.
+These controls allow users to explore data across different business dimensions.
 
 ## Dataset Description
 
-The dataset contains the following information:
+The dataset contains e-commerce order information, including:
 
 - Row ID
 - Order ID
@@ -125,4 +136,4 @@ Orders-Report-Looker-Studio/
 
 ## Project Category
 
-Data Analytics | Business Intelligence | Google Looker Studio | Data Visualization
+Data Analytics | Business Intelligence | Google Data Studio | Data Visualization
